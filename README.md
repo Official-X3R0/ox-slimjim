@@ -18,4 +18,4 @@ Fail:
 https://imgur.com/f5nimxN
 
 Missing item (lockpick):
-https://imgur.com/undefined
+https://imgur.com/EPMeBsG
