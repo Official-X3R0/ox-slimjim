@@ -14,7 +14,7 @@ Preview:
 Action:
 https://imgur.com/kIb86ms
 
-Fail: 
+Incorrect job: 
 https://imgur.com/f5nimxN
 
 Missing item (lockpick):
